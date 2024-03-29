@@ -6,6 +6,7 @@ description = "Shamir is a pure Rust implementation of Shamir's secret sharing"
 homepage = "https://github.com/Nebulosus/shamir"
 repository = "https://github.com/Nebulosus/shamir.git"
 license = "MIT"
+edition = "2021"
 
 [dependencies]
 rand = "0.7.3"
